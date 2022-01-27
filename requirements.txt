@@ -1,0 +1,12 @@
+discord
+requests
+colorama
+Fore
+init
+ctypes
+os
+datetime
+time
+threading
+pathlib
+path
