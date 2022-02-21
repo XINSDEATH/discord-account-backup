@@ -15,4 +15,3 @@ to do
 pip install -r requirements.txt
 input your token when it asks you to
 
-report any errors to XIN#0002 on discord
